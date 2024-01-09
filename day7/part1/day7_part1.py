@@ -1,4 +1,3 @@
-from enum import Enum
 inputFile = open('day7/part1/input.txt', 'r')
 hands = []
 bids = []
